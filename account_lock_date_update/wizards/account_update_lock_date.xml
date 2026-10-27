@@ -12,19 +12,19 @@
                 <sheet>
                     <group id="soft_lock_dates" string="Reversible Lock Dates">
                         <field name="company_id" invisible="1" />
-                        <field name="sale_lock_date" options="{'warn_future': true}" />
+                        <field name="sale_lock_date" options="{'warning': 'future'}" />
                         <field
                             name="purchase_lock_date"
-                            options="{'warn_future': true}"
+                            options="{'warning': 'future'}"
                         />
-                        <field name="tax_lock_date" options="{'warn_future': true}" />
+                        <field name="tax_lock_date" options="{'warning': 'future'}" />
                         <field
                             name="fiscalyear_lock_date"
-                            options="{'warn_future': true}"
+                            options="{'warning': 'future'}"
                         />
                     </group>
                     <group id="hard_lock_dates" string="Irreversible Lock Date">
-                        <field name="hard_lock_date" options="{'warn_future': true}" />
+                        <field name="hard_lock_date" options="{'warning': 'future'}" />
                     </group>
                 </sheet>
                 <footer>
