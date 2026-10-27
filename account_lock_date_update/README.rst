@@ -44,8 +44,8 @@ Usage
 
 To use this module, you need to be a Billing Administrator and go to:
 
--  Invoicing -> Accounting -> Lock Dates
--  Change values and click on **Update** button
+- Invoicing -> Accounting -> Lock Dates
+- Change values and click on **Update** button
 
 Bug Tracker
 ===========
@@ -68,13 +68,13 @@ Authors
 Contributors
 ------------
 
--  Benjamin Willig <benjamin.willig@acsone.eu>
--  Fekete Mihai <feketemihai@gmail.com>
--  Kitti Upariphutthiphong <kittiu@ecosoft.co.th>
--  Andrea Stirpe <a.stirpe@onestein.nl>
--  `Komit <https://komit-consulting.com>`__:
+- Benjamin Willig <benjamin.willig@acsone.eu>
+- Fekete Mihai <feketemihai@gmail.com>
+- Kitti Upariphutthiphong <kittiu@ecosoft.co.th>
+- Andrea Stirpe <a.stirpe@onestein.nl>
+- `Komit <https://komit-consulting.com>`__:
 
-   -  Vang Nguyen Phu
+  - Vang Nguyen Phu
 
 Maintainers
 -----------
